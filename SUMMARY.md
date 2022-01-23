@@ -6,3 +6,5 @@
 * [JavaScript 诞生记](javascript-dan-sheng-ji.md)
 * [CSS 知识总结](css-zhi-shi-zong-jie.md)
 * [JS对象基本用法](JS-dui-xiang-ji-ben-yong-fa.md)
+* [JS函数执行时机](js-han-shu-zhi-xing-shi-ji.md)
+* 
